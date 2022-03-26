@@ -1,3 +1,4 @@
-# js-t3h9el
+Created repo to collect all coding reltaed questions and their implementation.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-t3h9el)
+- Custom Promise.all implementation
+  [Implement Promise.all](https://github.com/rahulsharma2108/coding-questions/blob/master/index.js)
