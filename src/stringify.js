@@ -1,4 +1,7 @@
-// Implement customs stringify function which will take an input and convert it to the string.
+/**
+ * Implement customs stringify function which will take an input and convert it to the string.
+ * @author Rahul Sharma.
+ */
 
 // Inputs => Outputs
 // 'abc' => ‘abc’
